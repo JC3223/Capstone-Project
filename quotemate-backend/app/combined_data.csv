@@ -1,0 +1,368 @@
+invoice_no,company_name,item_description,category,quantity,unit_price,subtotal,tax,total
+QT-250124-052,City Management,"SANITARY PLUMBING WORK- TO CLEAR MINOR BLOCKAGE (TOILET, SINK AREA & ALL OUTLET PIPE)",Plumber,1,127.5,292.5,23.4,315.9
+QT-250124-052,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,292.5,23.4,315.9
+QT-250124-052,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,292.5,23.4,315.9
+QT-250124-043,City Management,BASIC AIR COND SERVICING (CEILING EXPOSED TYPE) - 3.0HP TO 5.0HP,Aircon Servicing,1,42.5,335.0,26.8,361.8
+QT-250124-043,City Management,TO PERFORM CHEMICAL WASH & CLEAN FOR OUTDOOR ONLY (3-5HP),Aircon Servicing,1,127.5,335.0,26.8,361.8
+QT-250124-043,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,335.0,26.8,361.8
+QT-250124-043,City Management,TRANSPORTATION - KLANG VALLEY,Transportation,1,100.0,335.0,26.8,361.8
+QT-250124-047,Viva La,TO SUPPLY AND REPLACE EXISTING WATER STORAGE HEATER TANK 45 LITRE,Plumber,1,1800.0,2550.0,204.0,2754.0
+QT-250124-047,Viva La,REPAIR AND TOUCH UP PLASTER CEILING HOLE WITH PAINTING,Plumber,1,750.0,2550.0,204.0,2754.0
+QT-250124-053,City Management,CHEMICAL AIR COND SERVICING (CASSETTE TYPE UNIT) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,537.5,43.0,580.5
+QT-250124-053,City Management,CITY LABOUR CHARGE,Labour Charge,6,16.25,537.5,43.0,580.5
+QT-250124-053,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,537.5,43.0,580.5
+QT-250124-041,City Management,TOP UP/ REFILL R22GAS1.0 HP TO 3.0 HP (30PSI),Aircon Servicing,1,30.0,162.5,13.0,175.5
+QT-250124-041,City Management,CITY LABOUR CHARGE,Labour Charge,2,16.25,162.5,13.0,175.5
+QT-250124-041,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,162.5,13.0,175.5
+QT-250124-039,City Management,CHEMICAL AIR COND SERVICING (CASSETTE TYPE UNIT) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,699.5,55.96,755.46
+QT-250124-039,City Management,TO SUPPLY AND REPLACE 2'X2' CEILING BOARD (BELOW 5NOS),Aircon Servicing,1,12.0,699.5,55.96,755.46
+QT-250124-039,City Management,CITY LABOUR CHARGE,Labour Charge,6,16.25,699.5,55.96,755.46
+QT-250124-039,City Management,TRANSPORTATION- NON KLANG VALLEY,Transportation,1,250.0,699.5,55.96,755.46
+QT-250123-035,City Management,PLUMBING WORKS,Plumber,1,230.0,395.0,31.6,426.6
+QT-250123-035,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,395.0,31.6,426.6
+QT-250123-035,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,395.0,31.6,426.6
+QT-250124-040,City Management,BASIC AIR COND SERVICING (CEILING EXPOSED TYPE) - 3.0HP TO 5.0HP,Aircon Servicing,1,42.5,335.0,26.8,361.8
+QT-250124-040,City Management,TO PERFORM CHEMICAL WASH & CLEAN FOR OUTDOOR ONLY (3-5HP),Aircon Servicing,1,127.5,335.0,26.8,361.8
+QT-250124-040,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,335.0,26.8,361.8
+QT-250124-040,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,335.0,26.8,361.8
+QT-250123-038,City Management,CLEAR MINOR BLOCKAGE AND FIX WATER LEAKAGE,Plumber,1,120.0,285.0,22.8,307.8
+QT-250123-038,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,285.0,22.8,307.8
+QT-250123-038,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,285.0,22.8,307.8
+QT-250124-051,City Management,CHEMICAL AIR COND SERVICING ( CASSETTE TYE UNIT ) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,537.5,43.0,580.5
+QT-250124-051,City Management,CITY LABOUR CHARGE,Labour Charge,6,16.25,537.5,43.0,580.5
+QT-250124-051,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,537.5,43.0,580.5
+QT-250123-037,City Management,TO SUPPLY & REPLACE POLYPIPE 25MM SIRIM APPROVED WATER PIPE INCLUDING ACCESSORIES- EXPOSED,Plumber,5,10.2,412.2,32.98,445.18
+QT-250123-037,City Management,TO SUPPLY AND REPLACE ELBOW 25MM,Plumber,2,35.0,412.2,32.98,445.18
+QT-250123-037,City Management,TO SUPPLY AND REPLACE 2'X4' CEILING BOARD (BELOW SNO5),Plumber,4,15.3,412.2,32.98,445.18
+QT-250123-037,City Management,CITY LABOUR CHARGE,Labour Charge,8,16.25,412.2,32.98,445.18
+QT-250123-037,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,412.2,32.98,445.18
+QT-250124-046,City Management,CHEMICAL AIR COND SERVICING (CEILING EXPOSED TYPE) - 3.0HP TO 5.0HP,Aircon Servicing,1,340.0,537.5,43.0,580.5
+QT-250124-046,City Management,CITY LABOUR CHARGE,Labour Charge,6,16.25,537.5,43.0,580.5
+QT-250124-046,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,537.5,43.0,580.5
+QT-250124-042,City Management,BASIC AIR COND SERVICING (CEILING EXPOSED TYPE) - 3.0HP TO 5.0HP,Aircon Servicing,1,42.5,335.0,26.8,361.8
+QT-250124-042,City Management,TO PERFORM CHEMICAL WASH & CLEAN FOR OUTDOOR ONLY (3-5HP),Aircon Servicing,1,127.5,335.0,26.8,361.8
+QT-250124-042,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,335.0,26.8,361.8
+QT-250124-042,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,335.0,26.8,361.8
+QT-250124-049,City Management,CHEMICAL AIR COND SERVICING (CASSETTE TYE UNIT) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,521.25,41.7,562.95
+QT-250124-049,City Management,CITY LABOUR CHARGE,Labour Charge,5,16.25,521.25,41.7,562.95
+QT-250124-049,City Management,TRANSPORTATION - KLANG VALLEY,Transportation,1,100.0,521.25,41.7,562.95
+QT-250124-050,City Management,CHEMICAL AIR COND SERVICING (CASSETTE TYE UNIT) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,521.25,41.7,562.95
+QT-250124-050,City Management,CITY LABOUR CHARGE,Labour Charge,5,16.25,521.25,41.7,562.95
+QT-250124-050,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,521.25,41.7,562.95
+QT-250107-006,Espresso (M) SDN BHD,To supply and install new water tap at counter sink (*single tap gooseneck),Plumber,1,180.0,180.0,14.4,194.4
+QT-250116-015,Espresso (M) SDN BHD,WELD GULLY TRAP SUPPORT,Plumber,1,400.0,400.0,32.0,432.0
+QT-250116-016,Espresso (M) SDN BHD,TO SUPPLY AND REPLACE NEW TOILET CISTERN PUMP (REMOVE EXISTING AND INSTALL NEW),Plumber,1,200.0,400.0,32.0,432.0
+QT-250116-016,Espresso (M) SDN BHD,TOILET CISTERN FLOAT BALL,Plumber,1,100.0,400.0,32.0,432.0
+QT-250116-016,Espresso (M) SDN BHD,TOILET CISTERN HANDLE/PRESS BUTTON,Plumber,1,100.0,400.0,32.0,432.0
+QT-250116-022,Espresso (M) SDN BHD,REPLACE FLEXIBLE HOSE,Plumber,1,180.0,180.0,14.4,194.4
+QT-250116-017,Espresso (M) SDN BHD,SEAL PIPE GAP,Plumber,1,180.0,180.0,14.4,194.4
+QT-250116-021,Espresso (M) SDN BHD,MODIFY GULLY TRAP TO ALIGN,Plumber,1,400.0,400.0,32.0,432.0
+QT-241219-019,FARM SDN BHD,REMOVE TOILET BOWLS,Plumber,2,80.0,4720.0,377.6,5097.6
+QT-241219-019,FARM SDN BHD,HACK AND DISPOSAL OF THE FLOOR TILES AND CONCRETE FOR TWO TOILETS,Plumber,2,680.0,4720.0,377.6,5097.6
+QT-241219-019,FARM SDN BHD,"INSTALL NEW DRAIN LINES WITH DOWN PIPES, CONNECTING TO MANHOLE AND APPLY WATERPROOFING",Plumber,2,1100.0,4720.0,377.6,5097.6
+QT-241219-019,FARM SDN BHD,SUPPLY AND REBUILD CONCRETE FLOOR AND TILES FOR BOTH TOILETS *INCLUDING REINSTALL TOILET BOWLS,Plumber,2,500.0,4720.0,377.6,5097.6
+QT-241230-012,LIFE SDN BHD,FIX INTERNAL PIPE LEAKING,Plumber,1,3850.0,3850.0,308.0,4158.0
+QT-241220-022,FARM SDN BHD,DESLUDGING WORK AND INSTALLING NETTING FOR DRAIN,Plumber,1,750.0,750.0,60.0,810.0
+QT-250102-001,GFXEX,CHEMICAL SERVICE INDOOR AND OUTDOOR WALL UNIT 1HP,Aircon Servicing,1,150.0,750.0,60.0,810.0
+QT-250102-001,GFXEX,CHEMICAL SERVICE INDOOR AND OUTDOOR WALL UNIT 2HP,Aircon Servicing,4,150.0,750.0,60.0,810.0
+QT-250102-001,GFXEX,GAS TOP-UP IS CHARGED PRICE BELOW: R-410: RM20 PER 10 PSI R-22: RM10 PER 10 PSI R-32: RM20 PER 10 PSI,Aircon Servicing,1,0.0,750.0,60.0,810.0
+QT-241222-002,FARM SDN BHD,Inspection charge for broken water tank,Plumber,1,200.0,200.0,16.0,216.0
+QT-241224-006,FARM SDN BHD,TO SUPPLY AND REPLACE DAMAGED PIPE,Plumber,1,3500.0,4400.0,352.0,4752.0
+QT-241224-006,FARM SDN BHD,TO REPAIR ANY LEAKAGE IN DRAINAGE,Plumber,1,500.0,4400.0,352.0,4752.0
+QT-241224-006,FARM SDN BHD,LABOUR COST,Labour Charge,1,400.0,4400.0,352.0,4752.0
+QT-241220-021,FARM SDN BHD,TO SUPPLY AND INSTALL DAIKIN 1.5HP WALL MOUNTED R32 GAS (NON-INVERTER),Aircon Installation,1,2180.0,2480.0,198.4,2678.4
+QT-241220-021,FARM SDN BHD,TO SUPPLY EXTRA COPPER PIPING,Aircon Installation,12,25.0,2480.0,198.4,2678.4
+QT-241217-016,GFXEX,SUPPLY & REFILL R 32 GAS-RM20/ 10PSI,Aircon Servicing,11,20.0,220.0,17.6,237.6
+QT-241217-010,Liveln Sdn Bhd,"TO SUPPLY AND INSTALL HAIER WALL MOUNTED 1.0HP R32
+• NON-INVERTER
+• MODEL : HSU-10LPA23
+• DISMANTLE OLD UNIT AND INSTALL NEW UNIT",Aircon Installation,1,1500.0,1500.0,120.0,1620.0
+QT-241217-011,GFXEX,TO REPLACE AND INSTALL NEW COMPRESSOR FAN MOTOR WITH LABOUR,Aircon Servicing,1,540.0,690.0,55.2,745.2
+QT-241217-011,GFXEX,CHEMICAL SERVICE INDOOR AND OUTDOOR WALL UNIT 2HP,Aircon Servicing,1,150.0,690.0,55.2,745.2
+QT-241217-011,GFXEX,GAS TOP-UP IS CHARGED PRICE BELOW: R-410: RM20 PER 10 PSI R-22: RM10 PER 10 PSI R-32: RM20 PER 10 PSI,Aircon Servicing,1,0.0,690.0,55.2,745.2
+QT-241217-012,GFXEX,"SUPPLY AND INSTALL BRAND NEW ACSON 2HP NON-INVERTER AIR CONDITIONER WITH R410 GAS
+1 YEAR GENERAL WARRANTY + 5 YEARS MOTOR COMPRESSOR WARRANTY",Aircon Installation,1,3000.0,3560.0,284.8,3844.8
+QT-241217-012,GFXEX,REPLACE COPPER PIPE 20FT,Aircon Installation,20,28.0,3560.0,284.8,3844.8
+QT-241217-012,GFXEX,DISMANTLE AND DISPOSAL OF OLD UNIT (F.O.C),Aircon Installation,1,0.0,3560.0,284.8,3844.8
+QT-241213-004,GFXEX,Chemical service indoor and outdoor wall unit 1HP,Aircon Servicing,1,150.0,1200.0,96.0,1296.0
+QT-241213-004,GFXEX,Chemical service indoor and outdoor wall unit 1.5HP,Aircon Servicing,2,150.0,1200.0,96.0,1296.0
+QT-241213-004,GFXEX,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,5,150.0,1200.0,96.0,1296.0
+QT-241213-005,City Management,SUPPLY AND INSTALL COMPRESSOR C/W WELDING,Aircon Servicing,1,2690.0,3500.5,280.04,3780.54
+QT-241213-005,City Management,SUPPLY & REPLACE FILTER DRIER C/W WELDING OR FLARE NUT,Aircon Servicing,1,68.0,3500.5,280.04,3780.54
+QT-241213-005,City Management,"TO VACUUM, REFILL R507 REFRIGERANT GAS W/ TESTING",Aircon Servicing,1,350.0,3500.5,280.04,3780.54
+QT-241213-005,City Management,TRANSPORT CHARGES WITHIN KLANG VALLEY,Transportation,1,100.0,3500.5,280.04,3780.54
+QT-241213-005,City Management,LABOUR,Labour Charge,18,16.25,3500.5,280.04,3780.54
+IPM241231-001,FARM SDN BHD,"OPEN MAN DRAINED WHOLE AND CLEAN ALL THE PIPES, CLEAN SUB DRAINED AND CLEAN ALL THE PIPES 02 UNITS, REMOVE CLOGGED AND REMOVE FOREIGN OBJECT INSIDE BLOCKS",Plumber,1,1150.0,1150.0,92.0,1242.0
+QT-250124-052,City Management,"SANITARY PLUMBING WORK- TO CLEAR MINOR BLOCKAGE (TOILET, SINK AREA & ALL OUTLET PIPE)",Plumber,1,127.5,292.5,23.4,315.9
+QT-250124-052,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,292.5,23.4,315.9
+QT-250124-052,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,292.5,23.4,315.9
+QT-250124-043,City Management,BASIC AIR COND SERVICING (CEILING EXPOSED TYPE) - 3.0HP TO 5.0HP,Aircon Servicing,1,42.5,335.0,26.8,361.8
+QT-250124-043,City Management,TO PERFORM CHEMICAL WASH & CLEAN FOR OUTDOOR ONLY (3-5HP),Aircon Servicing,1,127.5,335.0,26.8,361.8
+QT-250124-043,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,335.0,26.8,361.8
+QT-250124-043,City Management,TRANSPORTATION - KLANG VALLEY,Transportation,1,100.0,335.0,26.8,361.8
+QT-250124-047,Viva La,TO SUPPLY AND REPLACE EXISTING WATER STORAGE HEATER TANK 45 LITRE,Plumber,1,1800.0,2550.0,204.0,2754.0
+QT-250124-047,Viva La,REPAIR AND TOUCH UP PLASTER CEILING HOLE WITH PAINTING,Plumber,1,750.0,2550.0,204.0,2754.0
+QT-250124-053,City Management,CHEMICAL AIR COND SERVICING (CASSETTE TYPE UNIT) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,537.5,43.0,580.5
+QT-250124-053,City Management,CITY LABOUR CHARGE,Labour Charge,6,16.25,537.5,43.0,580.5
+QT-250124-053,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,537.5,43.0,580.5
+QT-250124-041,City Management,TOP UP/ REFILL R22GAS1.0 HP TO 3.0 HP (30PSI),Aircon Servicing,1,30.0,162.5,13.0,175.5
+QT-250124-041,City Management,CITY LABOUR CHARGE,Labour Charge,2,16.25,162.5,13.0,175.5
+QT-250124-041,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,162.5,13.0,175.5
+QT-250124-039,City Management,CHEMICAL AIR COND SERVICING (CASSETTE TYPE UNIT) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,699.5,55.96,755.46
+QT-250124-039,City Management,TO SUPPLY AND REPLACE 2'X2' CEILING BOARD (BELOW 5NOS),Aircon Servicing,1,12.0,699.5,55.96,755.46
+QT-250124-039,City Management,CITY LABOUR CHARGE,Labour Charge,6,16.25,699.5,55.96,755.46
+QT-250124-039,City Management,TRANSPORTATION- NON KLANG VALLEY,Transportation,1,250.0,699.5,55.96,755.46
+QT-250123-035,City Management,PLUMBING WORKS,Plumber,1,230.0,395.0,31.6,426.6
+QT-250123-035,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,395.0,31.6,426.6
+QT-250123-035,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,395.0,31.6,426.6
+QT-250124-040,City Management,BASIC AIR COND SERVICING (CEILING EXPOSED TYPE) - 3.0HP TO 5.0HP,Aircon Servicing,1,42.5,335.0,26.8,361.8
+QT-250124-040,City Management,TO PERFORM CHEMICAL WASH & CLEAN FOR OUTDOOR ONLY (3-5HP),Aircon Servicing,1,127.5,335.0,26.8,361.8
+QT-250124-040,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,335.0,26.8,361.8
+QT-250124-040,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,335.0,26.8,361.8
+QT-250123-038,City Management,CLEAR MINOR BLOCKAGE AND FIX WATER LEAKAGE,Plumber,1,120.0,285.0,22.8,307.8
+QT-250123-038,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,285.0,22.8,307.8
+QT-250123-038,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,285.0,22.8,307.8
+QT-250124-051,City Management,CHEMICAL AIR COND SERVICING ( CASSETTE TYE UNIT ) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,537.5,43.0,580.5
+QT-250124-051,City Management,CITY LABOUR CHARGE,Labour Charge,6,16.25,537.5,43.0,580.5
+QT-250124-051,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,537.5,43.0,580.5
+QT-250123-037,City Management,TO SUPPLY & REPLACE POLYPIPE 25MM SIRIM APPROVED WATER PIPE INCLUDING ACCESSORIES- EXPOSED,Plumber,5,10.2,412.2,32.98,445.18
+QT-250123-037,City Management,TO SUPPLY AND REPLACE ELBOW 25MM,Plumber,2,35.0,412.2,32.98,445.18
+QT-250123-037,City Management,TO SUPPLY AND REPLACE 2'X4' CEILING BOARD (BELOW SNO5),Plumber,4,15.3,412.2,32.98,445.18
+QT-250123-037,City Management,CITY LABOUR CHARGE,Labour Charge,8,16.25,412.2,32.98,445.18
+QT-250123-037,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,412.2,32.98,445.18
+QT-250124-046,City Management,CHEMICAL AIR COND SERVICING (CEILING EXPOSED TYPE) - 3.0HP TO 5.0HP,Aircon Servicing,1,340.0,537.5,43.0,580.5
+QT-250124-046,City Management,CITY LABOUR CHARGE,Labour Charge,6,16.25,537.5,43.0,580.5
+QT-250124-046,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,537.5,43.0,580.5
+QT-250124-042,City Management,BASIC AIR COND SERVICING (CEILING EXPOSED TYPE) - 3.0HP TO 5.0HP,Aircon Servicing,1,42.5,335.0,26.8,361.8
+QT-250124-042,City Management,TO PERFORM CHEMICAL WASH & CLEAN FOR OUTDOOR ONLY (3-5HP),Aircon Servicing,1,127.5,335.0,26.8,361.8
+QT-250124-042,City Management,CITY LABOUR CHARGE,Labour Charge,4,16.25,335.0,26.8,361.8
+QT-250124-042,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,335.0,26.8,361.8
+QT-250124-049,City Management,CHEMICAL AIR COND SERVICING (CASSETTE TYE UNIT) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,521.25,41.7,562.95
+QT-250124-049,City Management,CITY LABOUR CHARGE,Labour Charge,5,16.25,521.25,41.7,562.95
+QT-250124-049,City Management,TRANSPORTATION - KLANG VALLEY,Transportation,1,100.0,521.25,41.7,562.95
+QT-250124-050,City Management,CHEMICAL AIR COND SERVICING (CASSETTE TYE UNIT) - 4.0HP TO 5.0HP,Aircon Servicing,1,340.0,521.25,41.7,562.95
+QT-250124-050,City Management,CITY LABOUR CHARGE,Labour Charge,5,16.25,521.25,41.7,562.95
+QT-250124-050,City Management,TRANSPORTATION- KLANG VALLEY,Transportation,1,100.0,521.25,41.7,562.95
+QT-250107-006,Espresso (M) SDN BHD,To supply and install new water tap at counter sink (*single tap gooseneck),Plumber,1,180.0,180.0,14.4,194.4
+QT-250116-015,Espresso (M) SDN BHD,WELD GULLY TRAP SUPPORT,Plumber,1,400.0,400.0,32.0,432.0
+QT-250116-016,Espresso (M) SDN BHD,TO SUPPLY AND REPLACE NEW TOILET CISTERN PUMP (REMOVE EXISTING AND INSTALL NEW),Plumber,1,200.0,400.0,32.0,432.0
+QT-250116-016,Espresso (M) SDN BHD,TOILET CISTERN FLOAT BALL,Plumber,1,100.0,400.0,32.0,432.0
+QT-250116-016,Espresso (M) SDN BHD,TOILET CISTERN HANDLE/PRESS BUTTON,Plumber,1,100.0,400.0,32.0,432.0
+QT-250116-022,Espresso (M) SDN BHD,REPLACE FLEXIBLE HOSE,Plumber,1,180.0,180.0,14.4,194.4
+QT-250116-017,Espresso (M) SDN BHD,SEAL PIPE GAP,Plumber,1,180.0,180.0,14.4,194.4
+QT-250116-021,Espresso (M) SDN BHD,MODIFY GULLY TRAP TO ALIGN,Plumber,1,400.0,400.0,32.0,432.0
+QT-241219-019,FARM SDN BHD,REMOVE TOILET BOWLS,Plumber,2,80.0,4720.0,377.6,5097.6
+QT-241219-019,FARM SDN BHD,HACK AND DISPOSAL OF THE FLOOR TILES AND CONCRETE FOR TWO TOILETS,Plumber,2,680.0,4720.0,377.6,5097.6
+QT-241219-019,FARM SDN BHD,"INSTALL NEW DRAIN LINES WITH DOWN PIPES, CONNECTING TO MANHOLE AND APPLY WATERPROOFING",Plumber,2,1100.0,4720.0,377.6,5097.6
+QT-241219-019,FARM SDN BHD,SUPPLY AND REBUILD CONCRETE FLOOR AND TILES FOR BOTH TOILETS *INCLUDING REINSTALL TOILET BOWLS,Plumber,2,500.0,4720.0,377.6,5097.6
+QT-241230-012,LIFE SDN BHD,FIX INTERNAL PIPE LEAKING,Plumber,1,3850.0,3850.0,308.0,4158.0
+QLI20240903-002,LIFE SDN BHD,Supply and install brand second hand 1HP aircon,Aircon Installation,3,550.0,1650.0,132.0,1782.0
+QT-241220-022,FARM SDN BHD,DESLUDGING WORK AND INSTALLING NETTING FOR DRAIN,Plumber,1,750.0,750.0,60.0,810.0
+QT-250102-001,GFXEX,CHEMICAL SERVICE INDOOR AND OUTDOOR WALL UNIT 1HP,Aircon Servicing,1,150.0,750.0,60.0,810.0
+QT-250102-001,GFXEX,CHEMICAL SERVICE INDOOR AND OUTDOOR WALL UNIT 2HP,Aircon Servicing,4,150.0,750.0,60.0,810.0
+QT-250102-001,GFXEX,GAS TOP-UP IS CHARGED PRICE BELOW: R-410: RM20 PER 10 PSI R-22: RM10 PER 10 PSI R-32: RM20 PER 10 PSI,Aircon Servicing,1,0.0,750.0,60.0,810.0
+QT-241222-002,FARM SDN BHD,Inspection charge for broken water tank,Plumber,1,200.0,200.0,16.0,216.0
+QT-241224-006,FARM SDN BHD,TO SUPPLY AND REPLACE DAMAGED PIPE,Plumber,1,3500.0,4400.0,352.0,4752.0
+QT-241224-006,FARM SDN BHD,TO REPAIR ANY LEAKAGE IN DRAINAGE,Plumber,1,500.0,4400.0,352.0,4752.0
+QT-241224-006,FARM SDN BHD,LABOUR COST,Labour Charge,1,400.0,4400.0,352.0,4752.0
+QT-241220-021,FARM SDN BHD,TO SUPPLY AND INSTALL DAIKIN 1.5HP WALL MOUNTED R32 GAS (NON-INVERTER),Aircon Installation,1,2180.0,2480.0,198.4,2678.4
+QT-241220-021,FARM SDN BHD,TO SUPPLY EXTRA COPPER PIPING,Aircon Installation,12,25.0,2480.0,198.4,2678.4
+QT-241217-016,GFXEX,SUPPLY & REFILL R 32 GAS-RM20/ 10PSI,Aircon Servicing,11,20.0,220.0,17.6,237.6
+QT-241217-010,LIFE Sdn Bhd,"TO SUPPLY AND INSTALL HAIER WALL MOUNTED 1.0HP R32
+• NON-INVERTER
+• MODEL : HSU-10LPA23
+• DISMANTLE OLD UNIT AND INSTALL NEW UNIT",Aircon Installation,1,1500.0,1500.0,120.0,1620.0
+QLI20240910-001,LIFE Sdn Bhd,Repair aircon - Replace fan motor - Labour,Aircon Repair,1,380.0,380.0,30.4,410.4
+QT-241217-011,GFXEX,TO REPLACE AND INSTALL NEW COMPRESSOR FAN MOTOR WITH LABOUR,Aircon Servicing,1,540.0,690.0,55.2,745.2
+QT-241217-011,GFXEX,CHEMICAL SERVICE INDOOR AND OUTDOOR WALL UNIT 2HP,Aircon Servicing,1,150.0,690.0,55.2,745.2
+QT-241217-011,GFXEX,GAS TOP-UP IS CHARGED PRICE BELOW: R-410: RM20 PER 10 PSI R-22: RM10 PER 10 PSI R-32: RM20 PER 10 PSI,Aircon Servicing,1,0.0,690.0,55.2,745.2
+QT-241217-012,GFXEX,"SUPPLY AND INSTALL BRAND NEW ACSON 2HP NON-INVERTER AIR CONDITIONER WITH R410 GAS
+1 YEAR GENERAL WARRANTY + 5 YEARS MOTOR COMPRESSOR WARRANTY",Aircon Installation,1,3000.0,3560.0,284.8,3844.8
+QT-241217-012,GFXEX,REPLACE COPPER PIPE 20FT,Aircon Installation,20,28.0,3560.0,284.8,3844.8
+QT-241217-012,GFXEX,DISMANTLE AND DISPOSAL OF OLD UNIT (F.O.C),Aircon Installation,1,0.0,3560.0,284.8,3844.8
+QT-241213-004,GFXEX,Chemical service indoor and outdoor wall unit 1HP,Aircon Servicing,1,150.0,1200.0,96.0,1296.0
+QT-241213-004,GFXEX,Chemical service indoor and outdoor wall unit 1.5HP,Aircon Servicing,2,150.0,1200.0,96.0,1296.0
+QT-241213-004,GFXEX,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,5,150.0,1200.0,96.0,1296.0
+QT-241213-005,City Management,SUPPLY AND INSTALL COMPRESSOR C/W WELDING,Aircon Servicing,1,2690.0,3500.5,280.04,3780.54
+QT-241213-005,City Management,SUPPLY & REPLACE FILTER DRIER C/W WELDING OR FLARE NUT,Aircon Servicing,1,68.0,3500.5,280.04,3780.54
+QT-241213-005,City Management,"TO VACUUM, REFILL R507 REFRIGERANT GAS W/ TESTING",Aircon Servicing,1,350.0,3500.5,280.04,3780.54
+QT-241213-005,City Management,TRANSPORT CHARGES WITHIN KLANG VALLEY,Transportation,1,100.0,3500.5,280.04,3780.54
+QT-241213-005,City Management,LABOUR,Labour Charge,18,16.25,3500.5,280.04,3780.54
+IPM241231-001,FARM SDN BHD,"OPEN MAN DRAINED WHOLE AND CLEAN ALL THE PIPES, CLEAN SUB DRAINED AND CLEAN ALL THE PIPES 02 UNITS, REMOVE CLOGGED AND REMOVE FOREIGN OBJECT INSIDE BLOCKS",Plumber,1,1150.0,1150.0,92.0,1242.0
+QJI20210901-002,OBN GROUP SDN BHD,"Supply and install air curtain c/w wiring, testing and commissioning",Aircon Installation,5,1050.0,5250.0,315.0,5565.0
+QJI20210804-001,OBN GROUP SDN BHD,"Regular chemical servicing of aircon units across Klang Valley
+-Mixed of cassette and ceiling unit up to 5HP
+-2 times servicing a year
+-Cleaning and washing of indoor air filters
+-Cleaning and washing indoor evaporator coil
+-Cleaning of blower and fan blade
+-Cleaning of indoor unit housing
+-Cleaning and check-up of outdoor unit
+-Check for abnormal noises, adjust and calibrate
+-Check gas level of your AC systems
+",Aircon Servicing,45,175.0,15750.0,945.0,16695.0
+QJI20210604-001,OBN GROUP SDN BHD,"Cassette aircon chemical service - Include troubleshooting, testing and commisioning",Aircon Servicing,1,250.0,340.0,20.4,360.4
+QJI20210604-001,OBN GROUP SDN BHD,Gas top-up 20PSI,Aircon Servicing,1,40.0,340.0,20.4,360.4
+QJI20210604-001,OBN GROUP SDN BHD,Flushing of drainage pipe,Aircon Servicing,1,50.0,340.0,20.4,360.4
+QJI20210813-001,OBN GROUP SDN BHD,"Regular chemical servicing of aircon units across Klang Valley
+-Mixed of cassette and ceiling unit up to 5HP
+-2 times servicing a year
+-Cleaning and washing of indoor air filters
+-Cleaning and washing indoor evaporator coil
+-Cleaning of blower and fan blade
+-Cleaning of indoor unit housing
+-Cleaning and check-up of outdoor unit
+-Check for abnormal noises, adjust and calibrate
+-Check gas level of your AC systems",Aircon Servicing,54,175.0,18900.0,1134.0,20034.0
+QJI20210605-003,OBN GROUP SDN BHD,"Flushing of drainage pipe - Include troubleshooting, testing and commisioning",Aircon Servicing,1,50.0,110.0,6.6,116.6
+QJI20210605-003,OBN GROUP SDN BHD,R410 30 PSI gas top-up,Aircon Servicing,1,60.0,110.0,6.6,116.6
+QJI20210605-001,OBN GROUP SDN BHD,"Ceiling exposed aircon overhaul service - Include troubleshooting, testing and commisioning",Aircon Servicing,1,300.0,510.0,30.6,540.6
+QJI20210605-001,OBN GROUP SDN BHD,R410 105 PSI gas top-up,Aircon Servicing,1,210.0,510.0,30.6,540.6
+QJI20210901-001,OBN GROUP SDN BHD,"Supply and install air curtain c/w wiring, testing and commissioning",Aircon Installation,2,1050.0,2100.0,126.0,2226.0
+BOSQ20221031-001,BURGER ON 16,Modify the water piping from meter to pump then to storage water tank to improve the water pressure,Plumber,1,680.0,680.0,40.8,720.8
+TTKQ20221108-001,BURGER ON 16,Procure a Duramec pump in order to replace the existing pump,Plumber,1,800.0,800.0,48.0,848.0
+20230914-001,IMPACT INTEGRATED,Repair 2.5HP Daikin cassette aircon - Supply outdoor fan unit - Labour fee for replacement of outdoor fan,Aircon Repair,1,550.0,550.0,33.0,583.0
+QGD20240924-001,GFXEX Johor Bahru,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,2,130.0,850.0,68.0,918.0
+QGD20240924-001,GFXEX Johor Bahru,Chemical service indoor and outdoor wall unit 1.5HP,Aircon Servicing,3,130.0,850.0,68.0,918.0
+QGD20240924-001,GFXEX Johor Bahru,Supply and replace capacitor,Aircon Servicing,1,200.0,850.0,68.0,918.0
+QGD202409001-001,GFXEX HQ,"Pipe blockage clearing (12 feet)
+Service charge including chemicals",Plumber,1,334.0,1280.0,102.4,1382.4
+QGD202409001-001,GFXEX HQ,"Toilet blockage clearing and cleaning
+Service charge including chemicals",Plumber,2,334.0,1280.0,102.4,1382.4
+QGD202409001-001,GFXEX HQ,"Urine bowl pipe blockage clearing
+Service charge including chemicals",Plumber,1,278.0,1280.0,102.4,1382.4
+QGD20241017-003,GFXEX Kuala Terengganu,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,1,150.0,450.0,36.0,486.0
+QGD20241017-003,GFXEX Kuala Terengganu,Chemical service indoor and outdoor wall unit 1.5HP,Aircon Servicing,1,150.0,450.0,36.0,486.0
+QGD20241017-003,GFXEX Kuala Terengganu,Chemical service indoor and outdoor wall unit 1HP,Aircon Servicing,1,150.0,450.0,36.0,486.0
+QGD20241119-001,GFXEX MAH - Machang,"Chemical service indoor and outdoor wall unit 1-2HP
+Gas top-up, up to 15psi is included",Aircon Servicing,5,150.0,750.0,60.0,810.0
+QGD20240820-001,GFXEX Johor Bahru,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,10,130.0,2320.0,185.6,2505.6
+QGD20240820-001,GFXEX Johor Bahru,Chemical service ceiling cassette 2HP,Aircon Servicing,1,320.0,2320.0,185.6,2505.6
+QGD20240820-001,GFXEX Johor Bahru,Chemical service indoor and outdoor wall unit 1.5HP,Aircon Servicing,2,130.0,2320.0,185.6,2505.6
+QGD20240820-001,GFXEX Johor Bahru,Dismantle and install 1 used wall type aircon,Aircon Servicing,1,440.0,2320.0,185.6,2505.6
+QGD20240909-01,GFXEX Penang,Overhaul service indoor and outdoor wall unit 2HP,Aircon Servicing,1,305.0,305.0,24.4,329.4
+QGD20241125-001,GFXEX - Batu Pahat,"Chemical service indoor and outdoor wall unit 1-2HP
+Gas top-up, up to 15psi is included",Aircon Servicing,4,150.0,600.0,48.0,648.0
+QGD20241112-001,GFXEX Ipoh,Chemical service indoor and outdoor wall unit 1-2HP,Aircon Servicing,9,150.0,1350.0,108.0,1458.0
+QGD20240918-001,GFXEX Mentakab,Chemical service indoor and outdoor wall unit 2HP - Daikin brand,Aircon Servicing,2,150.0,600.0,48.0,648.0
+QGD20240918-001,GFXEX Mentakab,Chemical service indoor and outdoor wall unit 1.0HP - Panasonic brand,Aircon Servicing,1,150.0,600.0,48.0,648.0
+QGD20240918-001,GFXEX Mentakab,Chemical service indoor and outdoor wall unit 1.5HP - Panasonic brand,Aircon Servicing,1,150.0,600.0,48.0,648.0
+QGD20241017-002,GFXEX Kuala Terengganu,Dismantle and install 1HP aircon,Aircon Installation,2,520.0,1040.0,83.2,1123.2
+QGD20241111-001,GFXEX BPS - Muar,"Chemical service indoor and outdoor wall unit 1-2HP
+incl 10psi gas top up",Aircon Servicing,3,150.0,450.0,36.0,486.0
+QGD20240911-01,GFXEX Penang,Repair aircon - Replace outdoor compressor - Replace capillary tube - Replace terminal wire,Aircon Repair,1,1250.0,1250.0,100.0,1350.0
+QGD20240930-003,GFXEX Kuching,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,2,150.0,380.0,30.4,410.4
+QGD20240905-001,GFXEX HQ,Clearing and replacing broken pipe,Plumber,1,460.0,810.0,64.8,874.8
+QGD20240905-001,GFXEX HQ,Clearing toilet blockage,Plumber,1,350.0,810.0,64.8,874.8
+QGD20240930-002,GFXEX Ulu Tiram,Chemical service indoor and outdoor wall unit 1HP,Aircon Servicing,1,130.0,520.0,41.6,561.6
+QGD20240930-002,GFXEX Ulu Tiram,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,3,130.0,520.0,41.6,561.6
+QGD20241202-001,GFXEX Penang,Replace new 2.0HP aircon - Panasonic wall mount non-inverter R32 - Model: PN18XKH - Installation of new aircon - Reuse existing copper and wiring - Dismantle and disposal of old unit,Aircon Installation,1,2650.0,2650.0,212.0,2862.0
+QGD20241104-001,GFXEX BKI - Kota Kinabalu,"Chemical service indoor and outdoor wall unit 1-2HP
+Gas top-up, up to 15psi is included",Aircon Servicing,7,150.0,1710.0,136.8,1846.8
+QGD20241104-001,GFXEX BKI - Kota Kinabalu,Repair of blower - fan only,Aircon Servicing,1,185.0,1710.0,136.8,1846.8
+QGD20241104-001,GFXEX BKI - Kota Kinabalu,"Supply and install new drainage pump
+- for 1 AC w frequent leak
+Additional gas top up (where needed):
+R - 410: RM20 per 10 PSI
+R - 22: RM10 per 10 PSI
+R - 32: RM20 per 10 PSI",Aircon Servicing,1,475.0,1710.0,136.8,1846.8
+QGD0241021-001,GFXEX Senawang,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,1,150.0,600.0,48.0,648.0
+QGD0241021-001,GFXEX Senawang,Chemical service indoor and outdoor wall unit 1.5HP,Aircon Servicing,1,150.0,600.0,48.0,648.0
+QGD0241021-001,GFXEX Senawang,Chemical service indoor and outdoor wall unit 1HP,Aircon Servicing,2,150.0,600.0,48.0,648.0
+QGD20241009-001,"Yusof, GFXEX Kampar",Chemical service indoor and outdoor wall unit 2HP - Gas top-up will be charged at RM20/10PSI,Aircon Servicing,2,150.0,450.0,36.0,486.0
+QGD20241009-001,"Yusof, GFXEX Kampar",Chemical service indoor and outdoor wall unit 2HP - Gas top-up will be charged at RM20/10PSI,Aircon Servicing,1,150.0,450.0,36.0,486.0
+QGD20240911-001,GFXEX Senai,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,3,150.0,585.0,46.8,631.8
+QGD20240911-001,GFXEX Senai,"R410 Gas top-up
+1st set- 105 PSI
+2nd set- 120PSI",Aircon Servicing,55,2.0,585.0,46.8,631.8
+QGD20240911-001,GFXEX Senai,"R22 Gas top-up
+1st set- 50PSI",Aircon Servicing,25,1.0,585.0,46.8,631.8
+QGD20240925-02,GFXEX Penang,Replace 42ft copper and wiring,Aircon Servicing,42,34.0,1728.0,138.24,1866.24
+QGD20240925-02,GFXEX Penang,Full gas top-up R410,Aircon Servicing,150,2.0,1728.0,138.24,1866.24
+QGD20240925-02,GFXEX Penang,Aircon vacuum and labour fee (FOC),Aircon Servicing,1,0.0,1728.0,138.24,1866.24
+QGD20240829-001,GFXEX Senai,Overhaul service indoor and outdoor wall unit 2HP,Aircon Servicing,3,305.0,1050.0,84.0,1134.0
+QGD20240829-001,GFXEX Senai,"R410 Gas top-up
+1st set- 105 PSI
+2nd set- 120PSI",Aircon Servicing,55,2.0,1050.0,84.0,1134.0
+QGD20240829-001,GFXEX Senai,"R22 Gas top-up
+1st set- 50PSI",Aircon Servicing,25,1.0,1050.0,84.0,1134.0
+QLI20240816-001,LIFE Sdn Bhd,Replace copper and wiring for room 3 (1HP aircon),Aircon Installation,30,20.0,800.0,64.0,864.0
+QLI20240816-001,LIFE Sdn Bhd,Cover with copper casing (6ft each),Aircon Installation,4,50.0,800.0,64.0,864.0
+QLI20240816-001,LIFE Sdn Bhd,Gas refill (FOC),Aircon Installation,1,0.0,800.0,64.0,864.0
+QLI20240807-001,LIFE Sdn Bhd,Repair Aircon - Replace pcb board - Gas top-up 45PSI - Labour,Aircon Repair,1,350.0,350.0,28.0,378.0
+QLI20240907-001,LIFE Sdn Bhd,Repair aircon - Replace IC board,Aircon Repair,1,130.0,130.0,10.4,140.4
+QLI20240903-001,LIFE Sdn Bhd,"Supply and install brand new 1HP R32 aircon (Hisense brand, non-inverter)",Aircon Installation,3,1050.0,3150.0,252.0,3402.0
+QL20240816-002,LIFE Sdn Bhd,Replace 50ft copper and wiring for room 3 (1HP aircon) - Conceal wiring - Estimated total of 50-60 ft - Additional ft at RM20/ ft,Aircon Installation,50,20.0,1600.0,128.0,1728.0
+QL20240816-002,LIFE Sdn Bhd,"Plaster ceiling work (cut 6 holes, plaster and paint) - Cut, plaster and repaint affected area - Estimated total of 6-8 holes - Additional hole at RM100",Aircon Installation,6,100.0,1600.0,128.0,1728.0
+QL20240816-002,LIFE Sdn Bhd,Gas refill (FOC),Aircon Installation,1,0.0,1600.0,128.0,1728.0
+2021201-001,OLD WHITE COFFEE SDN BHD,Clear drain blocking or clogging,Plumber,1,1550.0,1550.0,93.0,1643.0
+20211018-001,OLD WHITE COFFEE SDN BHD,Tiling and wall construction - Reconstruct wall using bricks,Plumber,1,3300.0,4340.0,260.4,4600.4
+20211018-001,OLD WHITE COFFEE SDN BHD,"Plumbing work - Reinstall pipe, water tap, and bidet",Plumber,1,240.0,4340.0,260.4,4600.4
+20211018-001,OLD WHITE COFFEE SDN BHD,Toilet bowl installation - Supply and install toilet bowl,Plumber,1,800.0,4340.0,260.4,4600.4
+20210707-001,OLD WHITE COFFEE SDN BHD,Repair water tank leaking - To cut old 25mm ABS piping for adjustment and relocate tank - To dismantle and install new 25mm tank float valve - To test runs and inspect all connections for leaking,Plumber,1,670.0,670.0,40.2,710.2
+20211130-001,OLD WHITE COFFEE SDN BHD,"Canvas roof leak - To inspect and rectify leak problem, to set up sitting platform for repairing work. Price includes all labour, transportation and equipment charges. To repair all leaking area (corner wall) 50 feet long.",Plumber,1,2300.0,2300.0,138.0,2438.0
+20210312-001,OLD WHITE COFFEE SDN BHD,Air con chemical cleaning - Cassette unit up to 2.5HP - Free gas refill up to 20PSI,Aircon Servicing,4,265.0,1360.0,108.8,1468.8
+20210312-001,OLD WHITE COFFEE SDN BHD,Night charge,Labour Charge,1,300.0,1360.0,108.8,1468.8
+20210311-001,OLD WHITE COFFEE SDN BHD,"Supply and install 2.5HP Daikin aircon
+- Dismantling of old unit aircon
+- Supply and installation of new unit including piping up to
+ 10 feet if required
+- Additional piping will be charged at RM25/ feet",Aircon Installation,1,4200.0,4200.0,336.0,4536.0
+20210705-001,OLD WHITE COFFEE SDN BHD,"Repair water tank leaking
+- To cut old 25mm ABS piping for adjustment and relocate
+tank
+- To dismantle and install new 25mm tank float valve
+- To test runs and inspect all connections for leaking
+- Dismantle and dispose old ceiling
+- To install new 2'x 4' hanging ceiling including aluminium
+frame",Plumber,1,1350.0,1350.0,108.0,1458.0
+20220310-001,OLD WHITE COFFEE SDN BHD,"a) Repair toilet pipe leaking
+b) Repair water tank valve and change pipe above ceiling
+c) Make good and repaint ceiling damaged by leaking",Plumber,1,2650.0,2650.0,159.0,2809.0
+20220112-001,OLD WHITE COFFEE SDN BHD,Hack into the floor to find source of leaking,Plumber,1,2350.0,6930.0,415.8,7345.8
+20220112-001,OLD WHITE COFFEE SDN BHD,"Find source of leaking, repair and test to ensure no problem",Plumber,1,2110.0,6930.0,415.8,7345.8
+20220112-001,OLD WHITE COFFEE SDN BHD,"Repair and make good concrete, plaster and tiles (Tiles will be sourced, as similar as possible)",Plumber,1,2470.0,6930.0,415.8,7345.8
+20220120-001,OLD WHITE COFFEE SDN BHD,"- Hack into the wall to find source of leaking
+- Find source of leaking, repair and test to ensure no problem
+- Repair and make good concrete in the wall",Plumber,1,2300.0,2300.0,138.0,2438.0
+QIB20230914-003,"IBalik Sdn Bhd
+","Supply and replace kitchen tap
+- Supply kitchen trap
+- Labour fee for replacement of kitchen trap",Plumber,1,260.0,260.0,15.6,275.6
+QIB20230914-002,"IBalik Sdn Bhd
+","Supply and replace kitchen trap
+- Supply kitchen trap
+- Labour fee for replacement of kitchen trap",Plumber,1,140.0,140.0,8.4,148.4
+QIB20230914-005,"IBalik Sdn Bhd
+","Supply and replace kitchen trap
+- Supply kitchen trap
+- Labour fee for replacement of kitchen trap",Plumber,1,175.0,175.0,10.5,185.5
+FTFSB20230911 - 001,FARM SDN BHD,Aircond General Cleaning Service,Aircon Servicing,46,120.0,5520.0,441.6,5961.6
+FTFSB20230919 - 001,FARM SDN BHD,Aircond General Cleaning Service (wall unit),Aircon Servicing,15,120.0,9580.0,766.4,10346.4
+FTFSB20230919 - 001,FARM SDN BHD,Aircond General Cleaning Service (cassette unit),Aircon Servicing,32,200.0,9580.0,766.4,10346.4
+FTFSB20230919 - 001,FARM SDN BHD,Aircond General Cleaning Service (FCU),Aircon Servicing,6,230.0,9580.0,766.4,10346.4
+EGTB20230918 - 001,TAKAFUL BERHAD,Supply and install Samsung inverter aircon with concealment work for copper piping (37 feet),Aircon Installation,1,4500.0,4500.0,360.0,4860.0
+QSH20230203-001,SPEEDFAST,Supply and install new unit of pump for flush tank,Plumber,1,200.0,560.0,44.8,604.8
+QSH20230203-001,SPEEDFAST,Supply and install new unit of water tap,Plumber,1,160.0,560.0,44.8,604.8
+QSH20230203-001,SPEEDFAST,Supply and install new unit of shower head + replace flexy pipe and heater valve,Plumber,1,200.0,560.0,44.8,604.8
+QSH20230103-001,SPEEDFAST,Water heater repair,Plumber,1,180.0,600.0,48.0,648.0
+QSH20230103-001,SPEEDFAST,Water filter repair,Plumber,1,120.0,600.0,48.0,648.0
+QSH20230103-001,SPEEDFAST,Aircon Service Chemical Cleaning (2 unit),Aircon Servicing,2,150.0,600.0,48.0,648.0
+QSH20221222-004,SPEEDFAST,Supply and install new toilet bidet hose,Plumber,1,80.0,842.5,67.4,909.9
+QSH20221222-004,SPEEDFAST,"To pressure clean clogged piping at the washing sink
+- To pressure clean clog piping . Including machinery
+and labour",Plumber,1,402.5,842.5,67.4,909.9
+QSH20221222-004,SPEEDFAST,Chemical service 1hp aircond,Aircon Servicing,3,120.0,842.5,67.4,909.9
+QSH20221228-002,SPEEDFAST,To supply and install new toilet flush set,Plumber,1,138.0,555.5,44.44,599.94
+QSH20221228-002,SPEEDFAST,To supply and install new kitchen sink bottle trap,Plumber,1,57.5,555.5,44.44,599.94
+QSH20221228-002,SPEEDFAST,"Chemical service 1hp aircond complete with top up
+gas",Aircon Servicing,3,120.0,555.5,44.44,599.94
+QJ20210604-001,OBN GROUP SDN BHD,"Cassette aircon chemical service
+- Include troubleshooting, testing and commissioning",Aircon Servicing,1,250.0,340.0,20.4,360.4
+QJ20210604-001,OBN GROUP SDN BHD,Gas top-up 20PSI,Aircon Servicing,1,40.0,340.0,20.4,360.4
+QJ20210604-001,OBN GROUP SDN BHD,Flushing of drainage pipe,Aircon Servicing,1,50.0,340.0,20.4,360.4
+20210909- 001,OLD WHITE COFFEE SDN BHD,Repair leaking - Fix acrylonitrile butadiene styrene (ABS) pipe leaking - Night job,Plumber,1,550.0,550.0,33.0,583.0
+QGD2040820-001,GFXEX Johor Bahru,Chemical service indoor and outdoor wall unit 2HP,Aircon Servicing,10,130.0,2320.0,185.6,2505.6
+QGD2040820-001,GFXEX Johor Bahru,Chemical service ceiling cassette 2HP,Aircon Servicing,1,320.0,2320.0,185.6,2505.6
+QGD2040820-001,GFXEX Johor Bahru,Chemical service indoor and outdoor wall unit 1.5HP,Aircon Servicing,2,130.0,2320.0,185.6,2505.6
+QGD2040820-001,GFXEX Johor Bahru,Dismantle and install 1 used wall type aircon,Aircon Servicing,1,440.0,2320.0,185.6,2505.6

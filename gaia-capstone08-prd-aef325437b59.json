@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gaia-capstone08-prd",
+  "private_key_id": "aef325437b594adbfdbfbcd52dd21ff7c057bbfd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCe1y8EbA4Sl9I6\nkV4ffN81XM/YOrpf8v8aRAqt+nWc3F3lLeVf+AaHlwaL6EtV5miani7OIPZxDDib\nDLgol7bJwtm9K9UzQ2OGEPNdmYGt4EVpomoBr/pJijYiHV84RT2Wl4nYqsdbN9/x\nbuF3pQTkypOuYL+VrM5nd1YIYUXz25A3NirmEDTS+JgALPSU8L8a0uc2BxGBXdA4\n98r/EDFt1B8YQcrIvATFgWr2W4ycVxX1rtSrR3RAQxCb0bvR4AdrK7Lam1DHFx5t\npl08RxQ7qZfvwzRrBkfpL0wLEGOc5GZBBbfNV8+M/Be0ofToFSGPk+xnyoSHl7xD\nNopCerY5AgMBAAECggEAPzzFQ7nvOljGQjn4oomY5cpPFzN+Ws/H30GijNRPecVD\n/odwr+3zT40BdrbjM045bAE4+iimZKhsatI8CTEpfRb9j/JA/ZlBKLFb6nJAbiSB\nDgaytHxGpXuIhLlz3Ne4Jtmq8B9Boh/TIPA3hGYm1h2OgRiUfbbgL9ITZt+vNV+e\nBT1SfDYuuWmLwjZXJMGrp3EZXitXKOIE71kbEzQoVtiaxc2TNdmZEjrd0QdsUiXt\n2HXnR2+CDqeuqDZ4wYzYwMAn8bDaAmcjtcrom2tEKbnCnywv+IB7hN7dhklHHRoO\nAt5k8LnGXwQ1jzNCIgKr6BiVq7MR1kKNRHnnn4yzPwKBgQDYxqpiJiyIc8hIcI5S\nD/bBV4RsYqCQ6WOuldujygX4rOFaT42mSEVMW0RDGyQOTE93QvmFx/4gardDoucC\n0a49tsp1lJhJzWSNoksGkzxD1gGFToTMxJau9+JyaiE43Trz9TgeamteHUj8qJzX\nSmRCxiVtKSoUGbha94KKmekmewKBgQC7lOAHjGz81gZC6oxE1kwOexcsbGGWn5vX\n7bobOWJarCXx6JfL8p51Th/Rh56Po6WaEq7f0SHSL8lB89QLG++Tes5eAu/I4Ujk\nrzYC3GXEWnjXUvu0POIHu2LupMcGEbC5wADMT/6v1x5G+/rR7S1CCKDeCC39umJ8\n1O6E5Vfx2wKBgEa/h+oihVQ/XXVu7rQPq7vsITbydW72DOd010s8avh/C8lav2Mu\noRdLjhrMp9bWxvSociFcZS8VRRyY9QYxgsl3d9oqFg24MAIdnpjVwsxs8vAb8TGX\nU4plMo2e35rccRofxSIAH2yG6EQ1j4KgL9qvKpXW4nnO7yEZOIydsL8zAoGBAIUu\nn51ca6lcQBfUtgDN8jQ52us0jFlIO3slE4TuylE8drh5/wTT3wPEkzzOQJsVgqeQ\n6k6JCq1UNl24Q+4bSI96mvkOtrb2lS2g5QVE/JBb9/5Rsdp3e7gnqIdtwM0jVEmd\n9DMb/OVWI+4cTCoubnq665SZVCYY5oJhIHSE7VsPAoGAQ6RZqlNMDiw7SV75AKLH\n4vJwwd+Uerf1/OmqK0gzdODdL6pA1kNtETOQSENF6Ww53sz4TrIAfaEsOjfwvbeK\nZcktoQUctP2NbqL1SQh7vsuoQZXh8NlZowR5BGDa7prKILRf6r0xt3y2XZc8fC70\nv6PFGgX1iJ8+iBaJsP1yQTM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudrun-service@gaia-capstone08-prd.iam.gserviceaccount.com",
+  "client_id": "116684851428204570150",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudrun-service%40gaia-capstone08-prd.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

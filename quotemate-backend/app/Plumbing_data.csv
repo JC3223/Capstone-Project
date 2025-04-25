@@ -1,0 +1,110 @@
+invoice_no,company_name,item_description,quantity,unit_price,subtotal,service_type
+QT-250124-052,City Management,"SANITARY PLUMBING WORK- TO CLEAR MINOR BLOCKAGE (TOILET, SINK AREA & ALL OUTLET PIPE)",1,127.5,292.5,Blockage Clearing & Drain Cleaning
+QT-250124-047,Viva La,TO SUPPLY AND REPLACE EXISTING WATER STORAGE HEATER TANK 45 LITRE,1,1800.0,2550.0,Water Tank & Pump Services
+QT-250124-047,Viva La,REPAIR AND TOUCH UP PLASTER CEILING HOLE WITH PAINTING,1,750.0,2550.0,"Ceiling, Tiling, & Structural Repairs"
+QT-250123-035,City Management,PLUMBING WORKS,1,230.0,395.0,Miscellaneous Plumbing Works
+QT-250123-038,City Management,CLEAR MINOR BLOCKAGE AND FIX WATER LEAKAGE,1,120.0,285.0,Blockage Clearing & Drain Cleaning
+QT-250123-037,City Management,TO SUPPLY & REPLACE POLYPIPE 25MM SIRIM APPROVED WATER PIPE INCLUDING ACCESSORIES- EXPOSED,5,10.2,412.2,Uncategorized
+QT-250123-037,City Management,TO SUPPLY AND REPLACE ELBOW 25MM,2,35.0,412.2,Pipe Installation & Replacement
+QT-250123-037,City Management,TO SUPPLY AND REPLACE 2'X4' CEILING BOARD (BELOW SNO5),4,15.3,412.2,"Ceiling, Tiling, & Structural Repairs"
+QT-250107-006,Espresso (M) SDN BHD,To supply and install new water tap at counter sink (*single tap gooseneck),1,180.0,180.0,"Sink, Tap & Shower Services"
+QT-250116-015,Espresso (M) SDN BHD,WELD GULLY TRAP SUPPORT,1,400.0,400.0,Uncategorized
+QT-250116-016,Espresso (M) SDN BHD,TO SUPPLY AND REPLACE NEW TOILET CISTERN PUMP (REMOVE EXISTING AND INSTALL NEW),1,200.0,400.0,Water Tank & Pump Services
+QT-250116-016,Espresso (M) SDN BHD,TOILET CISTERN FLOAT BALL,1,100.0,400.0,Toilet & Sanitary Fixture Services
+QT-250116-016,Espresso (M) SDN BHD,TOILET CISTERN HANDLE/PRESS BUTTON,1,100.0,400.0,Toilet & Sanitary Fixture Services
+QT-250116-022,Espresso (M) SDN BHD,REPLACE FLEXIBLE HOSE,1,180.0,180.0,Uncategorized
+QT-250116-017,Espresso (M) SDN BHD,SEAL PIPE GAP,1,180.0,180.0,Miscellaneous Plumbing Works
+QT-250116-021,Espresso (M) SDN BHD,MODIFY GULLY TRAP TO ALIGN,1,400.0,400.0,Uncategorized
+QT-241219-019,FARM SDN BHD,REMOVE TOILET BOWLS,2,80.0,4720.0,Toilet & Sanitary Fixture Services
+QT-241219-019,FARM SDN BHD,HACK AND DISPOSAL OF THE FLOOR TILES AND CONCRETE FOR TWO TOILETS,2,680.0,4720.0,Toilet & Sanitary Fixture Services
+QT-241219-019,FARM SDN BHD,"INSTALL NEW DRAIN LINES WITH DOWN PIPES, CONNECTING TO MANHOLE AND APPLY WATERPROOFING",2,1100.0,4720.0,Uncategorized
+QT-241219-019,FARM SDN BHD,SUPPLY AND REBUILD CONCRETE FLOOR AND TILES FOR BOTH TOILETS *INCLUDING REINSTALL TOILET BOWLS,2,500.0,4720.0,Toilet & Sanitary Fixture Services
+QT-241230-012,LIFE SDN BHD,FIX INTERNAL PIPE LEAKING,1,3850.0,3850.0,Leak Repairs
+QT-241220-022,FARM SDN BHD,DESLUDGING WORK AND INSTALLING NETTING FOR DRAIN,1,750.0,750.0,Miscellaneous Plumbing Works
+QT-241222-002,FARM SDN BHD,Inspection charge for broken water tank,1,200.0,200.0,Water Tank & Pump Services
+QT-241224-006,FARM SDN BHD,TO SUPPLY AND REPLACE DAMAGED PIPE,1,3500.0,4400.0,Uncategorized
+QT-241224-006,FARM SDN BHD,TO REPAIR ANY LEAKAGE IN DRAINAGE,1,500.0,4400.0,Leak Repairs
+IPM241231-001,FARM SDN BHD,"OPEN MAN DRAINED WHOLE AND CLEAN ALL THE PIPES, CLEAN SUB DRAINED AND CLEAN ALL THE PIPES 02 UNITS, REMOVE CLOGGED AND REMOVE FOREIGN OBJECT INSIDE BLOCKS",1,1150.0,1150.0,Blockage Clearing & Drain Cleaning
+QT-250124-052,City Management,"SANITARY PLUMBING WORK- TO CLEAR MINOR BLOCKAGE (TOILET, SINK AREA & ALL OUTLET PIPE)",1,127.5,292.5,Blockage Clearing & Drain Cleaning
+QT-250124-047,Viva La,TO SUPPLY AND REPLACE EXISTING WATER STORAGE HEATER TANK 45 LITRE,1,1800.0,2550.0,Water Tank & Pump Services
+QT-250124-047,Viva La,REPAIR AND TOUCH UP PLASTER CEILING HOLE WITH PAINTING,1,750.0,2550.0,"Ceiling, Tiling, & Structural Repairs"
+QT-250123-035,City Management,PLUMBING WORKS,1,230.0,395.0,Miscellaneous Plumbing Works
+QT-250123-038,City Management,CLEAR MINOR BLOCKAGE AND FIX WATER LEAKAGE,1,120.0,285.0,Blockage Clearing & Drain Cleaning
+QT-250123-037,City Management,TO SUPPLY & REPLACE POLYPIPE 25MM SIRIM APPROVED WATER PIPE INCLUDING ACCESSORIES- EXPOSED,5,10.2,412.2,Uncategorized
+QT-250123-037,City Management,TO SUPPLY AND REPLACE ELBOW 25MM,2,35.0,412.2,Pipe Installation & Replacement
+QT-250123-037,City Management,TO SUPPLY AND REPLACE 2'X4' CEILING BOARD (BELOW SNO5),4,15.3,412.2,"Ceiling, Tiling, & Structural Repairs"
+QT-250107-006,Espresso (M) SDN BHD,To supply and install new water tap at counter sink (*single tap gooseneck),1,180.0,180.0,"Sink, Tap & Shower Services"
+QT-250116-015,Espresso (M) SDN BHD,WELD GULLY TRAP SUPPORT,1,400.0,400.0,Uncategorized
+QT-250116-016,Espresso (M) SDN BHD,TO SUPPLY AND REPLACE NEW TOILET CISTERN PUMP (REMOVE EXISTING AND INSTALL NEW),1,200.0,400.0,Water Tank & Pump Services
+QT-250116-016,Espresso (M) SDN BHD,TOILET CISTERN FLOAT BALL,1,100.0,400.0,Toilet & Sanitary Fixture Services
+QT-250116-016,Espresso (M) SDN BHD,TOILET CISTERN HANDLE/PRESS BUTTON,1,100.0,400.0,Toilet & Sanitary Fixture Services
+QT-250116-022,Espresso (M) SDN BHD,REPLACE FLEXIBLE HOSE,1,180.0,180.0,Uncategorized
+QT-250116-017,Espresso (M) SDN BHD,SEAL PIPE GAP,1,180.0,180.0,Miscellaneous Plumbing Works
+QT-250116-021,Espresso (M) SDN BHD,MODIFY GULLY TRAP TO ALIGN,1,400.0,400.0,Uncategorized
+QT-241219-019,FARM SDN BHD,REMOVE TOILET BOWLS,2,80.0,4720.0,Toilet & Sanitary Fixture Services
+QT-241219-019,FARM SDN BHD,HACK AND DISPOSAL OF THE FLOOR TILES AND CONCRETE FOR TWO TOILETS,2,680.0,4720.0,Toilet & Sanitary Fixture Services
+QT-241219-019,FARM SDN BHD,"INSTALL NEW DRAIN LINES WITH DOWN PIPES, CONNECTING TO MANHOLE AND APPLY WATERPROOFING",2,1100.0,4720.0,Uncategorized
+QT-241219-019,FARM SDN BHD,SUPPLY AND REBUILD CONCRETE FLOOR AND TILES FOR BOTH TOILETS *INCLUDING REINSTALL TOILET BOWLS,2,500.0,4720.0,Toilet & Sanitary Fixture Services
+QT-241230-012,LIFE SDN BHD,FIX INTERNAL PIPE LEAKING,1,3850.0,3850.0,Leak Repairs
+QT-241220-022,FARM SDN BHD,DESLUDGING WORK AND INSTALLING NETTING FOR DRAIN,1,750.0,750.0,Miscellaneous Plumbing Works
+QT-241222-002,FARM SDN BHD,Inspection charge for broken water tank,1,200.0,200.0,Water Tank & Pump Services
+QT-241224-006,FARM SDN BHD,TO SUPPLY AND REPLACE DAMAGED PIPE,1,3500.0,4400.0,Uncategorized
+QT-241224-006,FARM SDN BHD,TO REPAIR ANY LEAKAGE IN DRAINAGE,1,500.0,4400.0,Leak Repairs
+IPM241231-001,FARM SDN BHD,"OPEN MAN DRAINED WHOLE AND CLEAN ALL THE PIPES, CLEAN SUB DRAINED AND CLEAN ALL THE PIPES 02 UNITS, REMOVE CLOGGED AND REMOVE FOREIGN OBJECT INSIDE BLOCKS",1,1150.0,1150.0,Blockage Clearing & Drain Cleaning
+BOSQ20221031-001,BURGER ON 16,Modify the water piping from meter to pump then to storage water tank to improve the water pressure,1,680.0,680.0,Water Tank & Pump Services
+TTKQ20221108-001,BURGER ON 16,Procure a Duramec pump in order to replace the existing pump,1,800.0,800.0,Water Tank & Pump Services
+QGD202409001-001,GFXEX HQ,"Pipe blockage clearing (12 feet)
+Service charge including chemicals",1,334.0,1280.0,Blockage Clearing & Drain Cleaning
+QGD202409001-001,GFXEX HQ,"Toilet blockage clearing and cleaning
+Service charge including chemicals",2,334.0,1280.0,Blockage Clearing & Drain Cleaning
+QGD202409001-001,GFXEX HQ,"Urine bowl pipe blockage clearing
+Service charge including chemicals",1,278.0,1280.0,Blockage Clearing & Drain Cleaning
+QGD20240905-001,GFXEX HQ,Clearing and replacing broken pipe,1,460.0,810.0,Blockage Clearing & Drain Cleaning
+QGD20240905-001,GFXEX HQ,Clearing toilet blockage,1,350.0,810.0,Blockage Clearing & Drain Cleaning
+2021201-001,OLD WHITE COFFEE SDN BHD,Clear drain blocking or clogging,1,1550.0,1550.0,Blockage Clearing & Drain Cleaning
+20211018-001,OLD WHITE COFFEE SDN BHD,Tiling and wall construction - Reconstruct wall using bricks,1,3300.0,4340.0,"Ceiling, Tiling, & Structural Repairs"
+20211018-001,OLD WHITE COFFEE SDN BHD,"Plumbing work - Reinstall pipe, water tap, and bidet",1,240.0,4340.0,Pipe Installation & Replacement
+20211018-001,OLD WHITE COFFEE SDN BHD,Toilet bowl installation - Supply and install toilet bowl,1,800.0,4340.0,Toilet & Sanitary Fixture Services
+20210707-001,OLD WHITE COFFEE SDN BHD,Repair water tank leaking - To cut old 25mm ABS piping for adjustment and relocate tank - To dismantle and install new 25mm tank float valve - To test runs and inspect all connections for leaking,1,670.0,670.0,Leak Repairs
+20211130-001,OLD WHITE COFFEE SDN BHD,"Canvas roof leak - To inspect and rectify leak problem, to set up sitting platform for repairing work. Price includes all labour, transportation and equipment charges. To repair all leaking area (corner wall) 50 feet long.",1,2300.0,2300.0,Leak Repairs
+20210705-001,OLD WHITE COFFEE SDN BHD,"Repair water tank leaking
+- To cut old 25mm ABS piping for adjustment and relocate
+tank
+- To dismantle and install new 25mm tank float valve
+- To test runs and inspect all connections for leaking
+- Dismantle and dispose old ceiling
+- To install new 2'x 4' hanging ceiling including aluminium
+frame",1,1350.0,1350.0,Leak Repairs
+20220310-001,OLD WHITE COFFEE SDN BHD,"a) Repair toilet pipe leaking
+b) Repair water tank valve and change pipe above ceiling
+c) Make good and repaint ceiling damaged by leaking",1,2650.0,2650.0,Leak Repairs
+20220112-001,OLD WHITE COFFEE SDN BHD,Hack into the floor to find source of leaking,1,2350.0,6930.0,Leak Repairs
+20220112-001,OLD WHITE COFFEE SDN BHD,"Find source of leaking, repair and test to ensure no problem",1,2110.0,6930.0,Leak Repairs
+20220112-001,OLD WHITE COFFEE SDN BHD,"Repair and make good concrete, plaster and tiles (Tiles will be sourced, as similar as possible)",1,2470.0,6930.0,"Ceiling, Tiling, & Structural Repairs"
+20220120-001,OLD WHITE COFFEE SDN BHD,"- Hack into the wall to find source of leaking
+- Find source of leaking, repair and test to ensure no problem
+- Repair and make good concrete in the wall",1,2300.0,2300.0,Leak Repairs
+QIB20230914-003,"IBalik Sdn Bhd
+","Supply and replace kitchen tap
+- Supply kitchen trap
+- Labour fee for replacement of kitchen trap",1,260.0,260.0,"Sink, Tap & Shower Services"
+QIB20230914-002,"IBalik Sdn Bhd
+","Supply and replace kitchen trap
+- Supply kitchen trap
+- Labour fee for replacement of kitchen trap",1,140.0,140.0,"Sink, Tap & Shower Services"
+QIB20230914-005,"IBalik Sdn Bhd
+","Supply and replace kitchen trap
+- Supply kitchen trap
+- Labour fee for replacement of kitchen trap",1,175.0,175.0,"Sink, Tap & Shower Services"
+QSH20230203-001,SPEEDFAST,Supply and install new unit of pump for flush tank,1,200.0,560.0,Water Tank & Pump Services
+QSH20230203-001,SPEEDFAST,Supply and install new unit of water tap,1,160.0,560.0,"Sink, Tap & Shower Services"
+QSH20230203-001,SPEEDFAST,Supply and install new unit of shower head + replace flexy pipe and heater valve,1,200.0,560.0,"Sink, Tap & Shower Services"
+QSH20230103-001,SPEEDFAST,Water heater repair,1,180.0,600.0,Uncategorized
+QSH20230103-001,SPEEDFAST,Water filter repair,1,120.0,600.0,Miscellaneous Plumbing Works
+QSH20221222-004,SPEEDFAST,Supply and install new toilet bidet hose,1,80.0,842.5,Toilet & Sanitary Fixture Services
+QSH20221222-004,SPEEDFAST,"To pressure clean clogged piping at the washing sink
+- To pressure clean clog piping . Including machinery
+and labour",1,402.5,842.5,Blockage Clearing & Drain Cleaning
+QSH20221228-002,SPEEDFAST,To supply and install new toilet flush set,1,138.0,555.5,Toilet & Sanitary Fixture Services
+QSH20221228-002,SPEEDFAST,To supply and install new kitchen sink bottle trap,1,57.5,555.5,"Sink, Tap & Shower Services"
+20210909- 001,OLD WHITE COFFEE SDN BHD,Repair leaking - Fix acrylonitrile butadiene styrene (ABS) pipe leaking - Night job,1,550.0,550.0,Leak Repairs
